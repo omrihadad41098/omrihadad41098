@@ -2,12 +2,12 @@
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
-- <b>C++</b>
+- <b>Memory Management</b>
   - ['Coalition Race' - a coalition creation system](https://github.com/omrihadad41098/MemoryManagement) <b>(C++)</b>
-- <b>Multi-Threaded</b>
+- <b>Concurrent Programming</b>
   - [Multi-Threaded-set-game](https://github.com/omrihadad41098/ConcurrentProgramming_) <b>(Java)</b>
 - <b>Server-Client STOMP Protocol </b>
-  - [Server-Client](https://github.com/omrihadad41098/ServerClient)
+  - [Server-Client](https://github.com/omrihadad41098/ServerClient)<b>(C++ and Java)</b>
   
 
 <h2> 🤳 Connect with me:</h2>
