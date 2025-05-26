@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omri! <br/><a href="https://github.com/joshmadakor1"><h2>B.Sc. in Computer Science, Ben-Gurion University</a>, <a href="www.linkedin.com/in/omrihadad"> </h2>
+<h1>Hi, I'm Omri! <br/><a href="https://github.com/joshmadakor1"><h2>B.Sc. in Computer Science, Ben-Gurion University</a> <a href="www.linkedin.com/in/omrihadad"> </h2>
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
